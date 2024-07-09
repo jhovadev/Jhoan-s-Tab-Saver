@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Jhoan's Tab-Saver",
+    "version": "0.0.0.1",
+    "description": "Jhoan's Tab-Saver is a browser extension that helps you manage your browser tabs by allowing you to modify, load and export.",
+    "permissions": [
+        "scripting"
+    ],
+    "icons": {
+        "16": "icon16.png"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon16.png"
+    },
+    "host_permissions": [
+        "http://*/*",
+        "https://*/*"
+    ]
+}
