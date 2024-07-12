@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -35,3 +36,7 @@ https://www.geeksforgeeks.org/how-to-create-scrollable-element-in-tailwind-witho
 
 https://stackoverflow.com/questions/16670931/hide-scroll-bar-but-while-still-being-able-to-scroll
 
+=======
+# Jhoan-s-Tab-Saver
+Jhoan's Tab-Saver is a browser extension that helps you manage your browser tabs by allowing you to modify, load and export.
+>>>>>>> 2d82a733fb9e0e2937b9455715f5f5dfc8cee0d4
