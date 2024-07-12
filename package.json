@@ -1,8 +1,18 @@
 {
-  "name": "cls",
+  "name": "@jhovadev/tabs-saver",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.0.1",
+  "description": "A Chrome Extension for saving and loading tabs.",
+  "keywords": ["Tab-Saver", "Tab Saver", "Save Tabs", "Save Tabs Extension", "Chrome Extension", "Chrome Extension Development", "Chrome Extension Development Tutorial", "Chrome Extension Tutorial", "Chrome Extensions", "Chrome Extensions Tutorial", "Chrome Extensions Development", "Chrome Extensions Development Tutorial"],
+  "homepage": "https://github.com/jhovadev/Jhoan-s-Tab-Saver#readme",
+  "bugs": "https://github.com/jhovadev/Jhoan-s-Tab-Saver/issues",
+  "license": "GPLv3",
   "type": "module",
+  "author": {
+    "name": "Jhoan Vergara Arocutipa",
+    "email": "jorgearocutipa036@gmail.com",
+    "url": "https://jhoan.dev"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
